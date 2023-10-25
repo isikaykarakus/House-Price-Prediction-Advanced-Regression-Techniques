@@ -1,6 +1,6 @@
 ---
 title: "Statistical Learning Project"
-author: "Onur Alp Güvercin, 2072249, Su Doğan, 2071957, Işıkay Karakuş, 2071938"
+author: "Işıkay Karakuş, 2071938, Onur Alp Güvercin, 2072249, Su Doğan, 2071957"
 date: "July 17, 2023"
 output:
   html_document: default
