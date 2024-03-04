@@ -37,6 +37,5 @@ Through our project, our primary objectives are as follows:
     <li>Stat_project.Rmd</li>
     <li>Stat_project.html</li>
     <li>.gitignore</li>
-    <li>requirements.txt</li>
   </ul>
 </details>
