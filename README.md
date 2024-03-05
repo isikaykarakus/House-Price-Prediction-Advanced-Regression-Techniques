@@ -39,3 +39,21 @@ Through our project, our primary objectives are as follows:
     <li>.gitignore</li>
   </ul>
 </details>
+
+## Required Libraries
+
+Make sure to install the following R libraries before running the code:
+
+- rworldmap
+- knitr
+- ggplot2
+- readr
+- MASS
+- dplyr
+- lars
+- moments
+- caret
+- corrplot
+- gbm
+- glmnet
+- effectsize
